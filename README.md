@@ -21,7 +21,7 @@ J’aime créer des projets utiles, modernes et bien structurés.
 ### 🧮 404 Lab
 > Laboratoire d'apprentissage front-end pour expérimenter avec les dernières technologies HTML, CSS et JavaScript. Plateforme de tests et d'innovation.
 
-🔗 [Voir le projet]([https://404lab.netlify.app/)
+🔗 [Voir le projet](https://404lab.netlify.app/)
 
 ### ♟️ Impact Gear
 
