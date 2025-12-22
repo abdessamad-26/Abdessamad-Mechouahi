@@ -33,7 +33,7 @@ J’aime créer des projets utiles, modernes et bien structurés.
 
 ## 🌐 Portfolio 
 
-🖥️ **Mon portfolio pro** → [https://abdesssamad-mechouahi.netlify.app/](https://abdesssamad-mechouahi.netlify.app/)  
+🖥️ **Mon portfolio pro** → [https://abdesssamad-mechouahi.netlify.app/](https://abdessamad-mechouahi.netlify.app/)  
 
 ---
 
